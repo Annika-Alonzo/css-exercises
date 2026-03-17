@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.click-one, 
+.click-two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    cursor: pointer;
+}
+
+.click-one {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.click-two {
+    background-color: #ffff00;
+}
